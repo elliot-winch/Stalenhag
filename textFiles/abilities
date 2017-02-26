@@ -1,0 +1,28 @@
+Hypocratic Oath-Heal a player by the number of action points you spend on this action (max 4)-h
+Diagonsis-Determine the cause of a character's pain-h
+In The House-Heal all of your teammates by 1 point-h
+Bodily Harm-Deal double damage with a melee weapon next turn-h-m
+Shipman-Secretly kill a character you were healing (with their permission)-h
+Bed Side Manner-Convince a non-hostile character they are in need of treatment-h-c
+Breach-Deactive a robot, 30ft-r
+Design Flaw-Detect a weakpoint in a robot or structure-r
+Network Disruption-See through local CCTV cameras, hear law enforcement chatter, within 30ft-r
+BuiltIn Hardware-Detect cyborgs within 30ft-r
+Null Pointer Exception-Steal all the data from a cyborg's visual feed, touch-r
+Extraction-If a cyborg is dead, you may extract all of its data from its internal storage-r
+Targeted Strike-Shot an enemy's limb and cripple it, 30ft-b
+Suppress-Enemies in a 60ft cone cannot act next turn. Must have a suppression weapon-b
+Pack A Punch-Shot an enemy. Deal no damage, but knock them to the ground-b
+Execute-Guarenteed kill on an enemy with less than 3 health, regardless of their protection-b
+Commander-Select an enemy. All attacks on that enemy cause double damage-c
+Lover, Not A Fighter-Convince a human enemy to lay down his weapons-c
+Gift of God-Appeal to a character's religious side to convince them to join your side-c
+The Void Stares Back-If you find nothing in a room, recover one strain-p
+Always Use Protection-Determine an enemy's protection-p
+Heart On Your Sleeve-Determine a character's emotional state-p
+Second Wind-Reduce strain taken by half-e
+Hunker Down-Cover is doubly effecitve for a turn-e
+Tough Stuff-Half the damage you take this turn-e
+Swing For The Fences-Deal as much damage as action points you assign to this ability-m
+Heavy Hitter-Cripple a limb of a target, touch-m
+Mighty Man-Strength is increased for a short time-m

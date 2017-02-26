@@ -1,0 +1,12 @@
+RM Aegis-When deployed, creates a 6ft mobile shield in front of the user-1-e-300-5-5-0-0-3-3
+RM Mentior-When deployed, creates sounds of combat. Can be used to make you appear as a larger force-1-c-150-5-1-0-0-1-2
+RM Olefacto-When deployed, detects enemies and relays their position to user-1-p-300-5-2-0-0-2-5
+RM Iterum-When deployed, heals all humans by 2 in 30ft radius-1-h-350-5-1-0-0-1-6
+RM Gladio-When equiped as weapon and used for melee attack, will drill itself into enemy's insides and deal damage-1-m-350-5-4-5-1-1-4
+RM Arana-When deployed, will find high ground and fire down onto enemies-1-b-400-5-3-3-0-2-4
+RM Excusor-When deployed, provides video and audio feed of an area-1-r-250-5-1-0-0-2-3
+RM Trucido-When deployed, creats EMP blast that deactives robots in 30ft radius for a short time-1-r-250-5-2-0-0-1-4
+RM Judicdum-When deployed, damages all deactivated robots in an area-1-r-250-5-1-6-0-1-4
+RM Hominis-When deployed, reveals cyborgs in a 30ft radius-1-r-100-5-1-0-0-1-2
+RM Metum-When deployed, makes an loud noise and distracts all humans in a 30ft radius for a short time-1-r-200-5-1-0-0-1-3
+RM Sano-When deployed, restores all robotic companions to full health or makes them ready to use-1-r-350-5-1-0-0-1-5
